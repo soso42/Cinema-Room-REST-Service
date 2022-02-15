@@ -1,12 +1,12 @@
 # Cinema-Room-REST-Service
-This is a Jetbrains academy project, where I have created a simple Spring REST service that manages a small movie theatre. It's Handling HTTP requests in controllers, creates services and responds with JSON objects.
+This is a Jetbrains academy project, where I have created a simple Spring REST service that manages a small movie theatre. It's Handling HTTP requests in controllers, creates services and responds with JSON objects. It has only 4 endpoints.
+
 # About
 JetBrains Academy  
 Track: Java Backend Developer  
 Project: Cinema Room REST Service
 https://hyperskill.org/projects/189?track=12
-# Development Environment
-Java SE 16.0.2
+
 # Dependencies
 Project lombok
 
